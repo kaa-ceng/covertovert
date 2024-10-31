@@ -6,7 +6,11 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group id: 70
+
+Kaan Karakut
+
+Student 2
 
 
 .. toctree::
