@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Kaan Karakut** - Student ID: 2310217
-- **Name Surname** - Student ID: 000000 
+- **Bartu Karalar** - Student ID: 2530426 
 
 ## Group ID
 70
