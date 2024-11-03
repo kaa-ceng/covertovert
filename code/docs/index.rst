@@ -10,7 +10,7 @@ Group id: 70
 
 Kaan Karakut
 
-Student 2
+Bartu Karalar
 
 
 .. toctree::
